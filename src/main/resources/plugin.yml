@@ -1,0 +1,6 @@
+name: TheNothingPlugin
+version: '${project.version}'
+main: xyz.arr4nn.thenothingplugin.TheNothingPlugin
+api-version: 1.18
+authors: [ ARR4NN ]
+description: Fr does nothing
